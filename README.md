@@ -48,3 +48,10 @@ I enjoy:
 ## 📌 Status
 This portfolio will be continuously updated as I complete new hands-on projects.
 
+🔧 Skills & Tools
+
+Data Analysis: Excel, SQL, Tableau, Data Cleaning, Data Visualization
+Financial Analysis: Credit analysis, portfolio reporting, risk review, customer financial assessment
+Tools: Excel (Advanced), Tableau, Power BI, SQL (PostgreSQL/MySQL), GitHub
+Soft Skills: Stakeholder communication, problem-solving, client advisory, reporting, presentation
+
